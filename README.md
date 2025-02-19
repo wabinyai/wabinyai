@@ -1,7 +1,7 @@
-👋 Hi, I’m @wabinyai
-👀 I’m interested in data analysis, visual computing, AI-driven innovation, and air quality monitoring.
-🌱 I’m currently learning advanced spatial distribution analysis, RAG for AI applications, and optimizing sensor networks for urban air quality monitoring.
-💞️ I’m looking to collaborate on AI/ML projects for environmental applications, spatial analysis, and urban air quality monitoring.
+- 👋 Hi, I’m @wabinyai
+- 👀 I’m interested in data analysis, visual computing, AI-driven innovation, and air quality monitoring.
+- 🌱 I’m currently learning advanced spatial distribution analysis, RAG for AI applications, and optimizing sensor networks for urban air quality monitoring.
+- 💞️ I’m looking to collaborate on AI/ML projects for environmental applications, spatial analysis, and urban air quality monitoring.
 - 📫 How to reach me ...
 
 <!---
