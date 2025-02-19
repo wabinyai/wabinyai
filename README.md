@@ -17,7 +17,7 @@ Some of the exciting work I’m exploring includes using AI to assist in air qua
 Let’s build something amazing together! 🌱
 
 ## Skills
-- **Languages**: Python 🐍, JavaScript 🌐, MySQL 📊, HTML/CSS 🎨
+- **Languages**: Python 🐍, JavaScript 🌐, MySQL 📊, HTML/CSS/next.js 🎨
 - **Interests**: AI/ML, Spatial Analysis, RAG for AI, Sensor Network Optimization
   
 ## 💡 What I Work On
